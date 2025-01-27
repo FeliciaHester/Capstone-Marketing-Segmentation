@@ -1,5 +1,5 @@
 # Capstone-Marketing-Segmentation
-##Unsupervised Learning using T-SNE, PCA, K-Means and Clustering, and Heatmapping
+## Unsupervised Learning using T-SNE, PCA, K-Means and Clustering, and Heatmapping
 
 In order for marketing efforts to be successful and have a better return on investment dollars spent, we must have an understanding of certain aspects of who the customer is.
 This information will have a direct consequence on the type of sales and marketing strategies to implement.
